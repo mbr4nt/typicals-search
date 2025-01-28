@@ -3,7 +3,10 @@ services:
     build:
       context: ./ui
     ports:
-      - "3001:3000"
+      - "4040:80"
+    environment:
+      - SIGMA_SEARCH_URL=http://localhost:7700
+      - SIGMA_SEARCH_AUTH_KEY=a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk
     container_name: ui-container
 
   engine:

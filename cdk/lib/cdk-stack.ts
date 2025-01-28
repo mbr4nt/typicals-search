@@ -25,10 +25,10 @@ export class CdkStack extends cdk.Stack {
     });
 
     let stack = this;
-    deployContainer('engine', appName, 7700);
-    //deployContainer('ui', appName, 3000);
+    deployContainer('engine', appName, 7700, {});
+    deployContainer('ui', appName, 80, {});
 
-    function deployContainer(name: string, prefix: string, port: number) : void {
+    function deployContainer(name: string, prefix: string, port: number, environment: {[key: string]:string}) : void {
       let fullName = `${prefix}-${name}`;
       const asset = new DockerImageAsset(stack, `${name}-image`, {
         directory: path.join(__dirname, `../../${name}`)
@@ -41,12 +41,11 @@ export class CdkStack extends cdk.Stack {
           desiredCount: 1, 
           taskImageOptions: { 
             image: ecs.ContainerImage.fromDockerImageAsset(asset), 
-            containerPort: port
+            containerPort: port,
+            environment: environment
           },
           memoryLimitMiB: 512, 
-          protocol: elbv2.ApplicationProtocol.HTTPS,
           publicLoadBalancer: true,
-          redirectHTTP: true,
       });
     }
   }

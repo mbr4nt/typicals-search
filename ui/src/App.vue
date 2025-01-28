@@ -64,7 +64,7 @@ export default {
   data() {
     return {
       searchClient: instantMeiliSearch(
-        "http://cdksta-gcsen-keqyaikrwmal-2124946720.ca-central-1.elb.amazonaws.com",
+        "http://localhost:7700",
         "a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk",
         {
           finitePagination: false,
