@@ -13,11 +13,11 @@
         <ais-sort-by
           :items="[
             {
-              value: 'models:series:desc',
+              value: 'series:desc',
               label: 'Descendo',
             },
             {
-              value: 'models:series:asc',
+              value: 'series:asc',
               label: 'Subindo',
             },
           ]"
@@ -39,7 +39,7 @@
               <div class="hit-description">
                 <ais-snippet :hit="item" attribute="name" />
               </div>
-              <div class="hit-info">price: {{ item.name }}</div>
+              <div class="hit-info">series: {{ item.series }}</div>
             </div>
           </template>
         </ais-hits>
