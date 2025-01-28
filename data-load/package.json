@@ -1,0 +1,15 @@
+{
+  "name": "data-load",
+  "version": "1.0.0",
+  "description": "chair search data loader",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "encodec",
+  "license": "ISC",
+  "dependencies": {
+    "neat-csv": "^7.0.0"
+  }
+}
