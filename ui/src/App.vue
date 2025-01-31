@@ -1,12 +1,13 @@
 <template>
   <header class="header">
+    <img src="./assets/logo.png" />
     <h1 class="header-title">Chair search</h1>
     <p class="header-subtitle">Very good for finding chairs</p>
   </header>
   <div class="container">
     <ais-instant-search :search-client="searchClient" index-name="models">
       <div class="search-panel__filters">
-        <ais-sort-by
+        <!-- <ais-sort-by
           :items="[
             {
               value: 'series:desc',
@@ -17,7 +18,7 @@
               label: 'Subindo',
             },
           ]"
-        />
+        /> -->
         <h2>Category</h2>
         <ais-refinement-list attribute="category" />
         <h2>Series</h2>
@@ -68,7 +69,7 @@ export default {
   data() {
     return {
       searchClient: instantMeiliSearch(
-        "http://cdksta-gcsen-keqyaikrwmal-2124946720.ca-central-1.elb.amazonaws.com/",
+        "http://localhost:7700/",
         "a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk",
         {
           finitePagination: true,
@@ -127,8 +128,8 @@ body {
   align-items: center;
   min-height: 50px;
   padding: 0.5rem 1rem;
-  background-image: linear-gradient(to right, #4dba87, #2f9088);
-  color: #fff;
+  background-image: linear-gradient(to right, #fff, #33a7d9);
+  color: #333;
   margin-bottom: 1rem;
 }
 

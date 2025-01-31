@@ -14,4 +14,13 @@ services:
       context: ./engine
     ports:
       - "7700:7700"
+    volumes:
+      - ./engine/data:/data
     container_name: engine-container
+
+  image-server:
+    build:
+      context: ./image-server
+    ports:
+      - "3002:3000"
+    container_name: image-server-container
