@@ -1,12 +1,8 @@
 <template>
   <header class="header">
-    <h1 class="header-title">MeiliSearch + Vue 3 InstantSearch</h1>
-    <p class="header-subtitle">Search in Steam video games 🎮</p>
+    <h1 class="header-title">Chair search</h1>
+    <p class="header-subtitle">Very good for finding chairs</p>
   </header>
-  <p class="disclaimer">
-    This is not the official Steam dataset but only for demo purpose. Enjoy
-    searching with MeiliSearch!
-  </p>
   <div class="container">
     <ais-instant-search :search-client="searchClient" index-name="models">
       <div class="search-panel__filters">
@@ -31,7 +27,7 @@
         <app-debounced-search-box :delay="10" class="ais-SearchBox-input" />
         <ais-hits>
           <template v-slot:item="{ item }">
-            <div>
+            <div @click="itemClicked(item.cmInfo)">
               <div class="hit-name">
                 <ais-highlight :hit="item" attribute="partNumber" />
               </div>
@@ -61,18 +57,29 @@ export default {
   components: {
     AppDebouncedSearchBox,
   },
+  methods: {
+    itemClicked(cmInfo) {
+      let partNumber = cmInfo.partNumber;
+      let pkg = cmInfo.package;
+      let className = cmInfo.className;
+      console.log("Item clicked", partNumber, pkg, className);
+    },
+  },
   data() {
     return {
       searchClient: instantMeiliSearch(
-        "http://localhost:7700",
+        "http://cdksta-gcsen-keqyaikrwmal-2124946720.ca-central-1.elb.amazonaws.com/",
         "a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk",
         {
-          finitePagination: false,
+          finitePagination: true,
         }
       ).searchClient,
     };
-  },
+  }
 };
+
+
+
 </script>
 <style>
 body,

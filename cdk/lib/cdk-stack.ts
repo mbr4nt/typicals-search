@@ -26,7 +26,10 @@ export class CdkStack extends cdk.Stack {
 
     let stack = this;
     deployContainer('engine', appName, 7700, {});
-    deployContainer('ui', appName, 80, {});
+    deployContainer('ui', appName, 80, {
+      MEILISEARCH_HOST: "http://localhost:7700",
+      MEILISEARCH_API_KEY: "a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk"
+    });
 
     function deployContainer(name: string, prefix: string, port: number, environment: {[key: string]:string}) : void {
       let fullName = `${prefix}-${name}`;
