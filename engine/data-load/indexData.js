@@ -10,12 +10,14 @@ export async function indexData(models) {
     const url = `/indexes/${index.key}/documents`;
     const verb = "PUT";
     const body = models;
-    const bearerToken = "a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk";
+    const bearerToken = process.env.MEILI_MASTER_KEY;
 
     try {
-        const response = await requestAndWait(url, verb, body, bearerToken);
+        let response = await requestAndWait(url, verb, body, bearerToken);
         console.log("index response", response);
-        console.log(await requestAndWait(`/indexes/${index.key}/settings/filterable-attributes`, "PUT", ["category", "series"], bearerToken));
+        response = await requestAndWait(`/indexes/${index.key}/settings/filterable-attributes`, "PUT", ["category", "series"], bearerToken);
+        console.log("filterable-attributes response", response);
+
     } catch (error) {
         console.error("Request failed:", error.message);
     }

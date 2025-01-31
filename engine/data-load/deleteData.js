@@ -8,7 +8,7 @@ export async function deleteData() {
 
     const url = `/indexes/${index.key}`;
     const verb = "DELETE";
-    const bearerToken = "a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk";
+    const bearerToken = process.env.MEILI_MASTER_KEY;
 
     try {
         const response = await requestAndWait(url, verb, null, bearerToken);

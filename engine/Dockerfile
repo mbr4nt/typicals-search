@@ -1,9 +1,6 @@
 # Use the official MeiliSearch image as the base
 FROM getmeili/meilisearch:v1.12
 
-# Set environment variables for MeiliSearch
-ENV MEILI_MASTER_KEY=a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk
-
 # Install Node.js and npm using Alpine package manager (apk)
 RUN apk add --no-cache nodejs npm curl
 

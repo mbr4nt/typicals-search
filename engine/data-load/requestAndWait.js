@@ -18,7 +18,8 @@ export async function requestAndWait(url, verb, body = null, bearerToken, pollIn
         const initialResponse = await makeRequest(serverUrl + url, verb, body, bearerToken);
 
         // Step 2: Check the task status
-        if (!initialResponse.taskUid || !initialResponse.status) {
+        if (!Number.isInteger(initialResponse.taskUid) || !initialResponse.status) {
+            console.log("error", initialResponse);
             throw new Error("Invalid response: Missing 'uid' or 'status' field");
         }
 

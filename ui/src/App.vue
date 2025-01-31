@@ -69,8 +69,8 @@ export default {
   data() {
     return {
       searchClient: instantMeiliSearch(
-        "http://localhost:7700/",
-        "a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk",
+        process.env.VUE_APP_MEILISEARCH_HOST,
+        process.env.VUE_APP_MEILISEARCH_API_KEY,
         {
           finitePagination: true,
         }

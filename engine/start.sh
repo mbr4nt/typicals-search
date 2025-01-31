@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Start MeiliSearch in the background
-/meilisearch &
+/meilisearch --no-analytics &
 
 # Wait for MeiliSearch to become available
 echo "Waiting for MeiliSearch to start..."
