@@ -1,7 +1,8 @@
+import { deleteData } from "./deleteData.js";
 import { requestAndWait } from "./requestAndWait.js";
 
 export async function indexData(models) {
-    
+    // /await deleteData();
     const index = {
         key: "models"
     };
@@ -13,6 +14,7 @@ export async function indexData(models) {
 
     try {
         const response = await requestAndWait(url, verb, body, bearerToken);
+        console.log("index response", response);
         console.log(await requestAndWait(`/indexes/${index.key}/settings/filterable-attributes`, "PUT", ["category", "series"], bearerToken));
     } catch (error) {
         console.error("Request failed:", error.message);
