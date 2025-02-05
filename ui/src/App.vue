@@ -28,7 +28,7 @@
         <app-debounced-search-box :delay="10" class="ais-SearchBox-input" />
         <ais-hits>
           <template v-slot:item="{ item }">
-            <div @click="itemClicked(item.cmInfo)">
+            <div @click="itemClicked(item.cmInfo, item.partNumber)">
               <div class="hit-name">
                 <ais-highlight :hit="item" attribute="partNumber" />
               </div>
@@ -59,11 +59,12 @@ export default {
     AppDebouncedSearchBox,
   },
   methods: {
-    itemClicked(cmInfo) {
-      let partNumber = cmInfo.partNumber;
-      let pkg = cmInfo.package;
-      let className = cmInfo.className;
-      console.log("Item clicked", partNumber, pkg, className);
+    itemClicked(cmInfo, partNumber) {
+      let pn = cmInfo?.partNumber ?? partNumber;
+      let pkg = cmInfo?.package ?? "";
+      let className = cmInfo?.className ?? "";
+      console.log("Item clicked: " + pkg + '/' + className + '/' + pn);
+      window.chrome.webview.postMessage(pkg + '/' + className + '/' + pn);
     },
   },
   data() {
