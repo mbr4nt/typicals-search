@@ -2,6 +2,7 @@ services:
   ui:
     build:
       context: ./ui
+    image: mbr4nt/global-seating-search-ui:latest
     ports:
       - "4040:80"
     environment:
@@ -12,6 +13,7 @@ services:
   engine:
     build:
       context: ./engine
+    image: mbr4nt/global-seating-search-engine:latest
     ports:
       - "7700:7700"
     environment:
@@ -24,6 +26,7 @@ services:
   image-server:
     build:
       context: ./image-server
+    image: mbr4nt/global-seating-search-image-server:latest
     ports:
       - "3002:3000"
     container_name: image-server-container

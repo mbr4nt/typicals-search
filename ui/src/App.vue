@@ -20,9 +20,9 @@
           ]"
         /> -->
         <h2>Category</h2>
-        <ais-refinement-list attribute="category" />
+        <ais-refinement-list attribute="category" show-more="true" show-more-limit="500" />
         <h2>Series</h2>
-        <ais-refinement-list attribute="series" />
+        <ais-refinement-list attribute="series" show-more="true" show-more-limit="500" />
       </div>
       <div class="search-panel__results">
         <app-debounced-search-box :delay="10" class="ais-SearchBox-input" />
