@@ -61,10 +61,11 @@ export default {
   methods: {
     itemClicked(cmInfo, partNumber) {
       let pn = cmInfo?.partNumber ?? partNumber;
-      let pkg = cmInfo?.package ?? "";
-      let className = cmInfo?.className ?? "";
-      console.log("Item clicked: " + pkg + '/' + className + '/' + pn);
-      window.chrome.webview.postMessage(pkg + '/' + className + '/' + pn);
+      let pkg = cmInfo?.package ? cmInfo.package + '/' : "";
+      let className = cmInfo?.className ? cmInfo.className + '/' : "";
+      let result = (pkg || className) ? pkg + className + pn : pn;
+      console.log("Item clicked: " + result);
+      window.chrome.webview.postMessage(result);
     },
   },
   data() {
