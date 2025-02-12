@@ -20,7 +20,7 @@
           ]"
         /> -->
         <h2>Industry</h2>
-        <ais-refinement-list attribute="industry" show-more="true" show-more-limit="500" />
+        <ais-refinement-list attribute="industry" />
         <h2>Application</h2>
         <ais-refinement-list attribute="application" show-more="true" show-more-limit="500" />
       </div>
