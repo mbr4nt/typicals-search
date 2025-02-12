@@ -19,9 +19,9 @@
             },
           ]"
         /> -->
-        <h2>Category</h2>
+        <h2>Industry</h2>
         <ais-refinement-list attribute="industry" show-more="true" show-more-limit="500" />
-        <h2>Series</h2>
+        <h2>Application</h2>
         <ais-refinement-list attribute="application" show-more="true" show-more-limit="500" />
       </div>
       <div class="search-panel__results">
@@ -36,7 +36,7 @@
               <div class="hit-description">
                 <ais-snippet :hit="item" attribute="mainProductLine" />
               </div>
-              <div class="hit-info">series: {{ item.secondaryProductLine }}</div>
+              <div class="hit-info">sec. product line: {{ item.secondaryProductLine }}</div>
             </div>
           </template>
         </ais-hits>
