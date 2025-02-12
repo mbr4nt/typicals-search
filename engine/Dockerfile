@@ -23,8 +23,13 @@ WORKDIR /app
 COPY start.sh /app/start.sh
 RUN chmod +x /app/start.sh
 
+RUN sed -i 's/\r$//' /app/start.sh
+
+RUN ls -l /app/start.sh
+
 # Expose MeiliSearch port
 EXPOSE 7700
+
 
 # Run the script to start MeiliSearch and load data
 CMD ["/app/start.sh"]

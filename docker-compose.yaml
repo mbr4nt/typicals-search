@@ -2,18 +2,18 @@ services:
   ui:
     build:
       context: ./ui
-    image: mbr4nt/global-seating-search-ui:latest
+    image: mbr4nt/global-typicals-search-ui:latest
     ports:
       - "4040:80"
     environment:
       - VUE_APP_MEILISEARCH_HOST=http://localhost:7700/
       - VUE_APP_MEILISEARCH_API_KEY=a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk
-    container_name: ui-container
+    container_name: typicals-ui-container
 
   engine:
     build:
       context: ./engine
-    image: mbr4nt/global-seating-search-engine:latest
+    image: mbr4nt/global-typicals-search-engine:latest
     ports:
       - "7700:7700"
     environment:
@@ -21,12 +21,12 @@ services:
       - MEILI_MASTER_KEY=a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk
     volumes:
       - ./engine/data:/data
-    container_name: engine-container
+    container_name: typicals-engine-container
 
   image-server:
     build:
       context: ./image-server
-    image: mbr4nt/global-seating-search-image-server:latest
+    image: mbr4nt/global-typicals-search-image-server:latest
     ports:
       - "3002:3000"
-    container_name: image-server-container
+    container_name: typicals-image-server-container

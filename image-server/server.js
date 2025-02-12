@@ -47,6 +47,7 @@ const server = http.createServer((req, res) => {
                     '.jpeg': 'image/jpeg',
                     '.png': 'image/png',
                     '.gif': 'image/gif',
+                    '.webp': 'image/webp',
                 };
                 res.setHeader('Content-Type', mimeTypes[ext] || 'application/octet-stream');
                 res.end(data);

@@ -9,27 +9,38 @@ import { waitForMeilisearch } from "./waitForMeilisearch.js";
 // Get the directory name of the current module file
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-// Read CSV file
-const csvString = await fs.readFile(join(__dirname, "./input/models.csv"), "utf-8");
+const industries = ["workplace", "healthcare", "education"];
+let allRows = [];
 
-// Convert CSV to JSON Object
-const jsonObject = await neatCsv(csvString);
+for(let industry of industries) {
+    // Read CSV file
+    const csvString = await fs.readFile(join(__dirname, `./input/${industry}.csv`), "utf-8");
+    console.log(`Processing ${industry}.csv`);
 
-let models = [];
-for(let model of jsonObject) {
-    models.push(await pipeline(model));
+    // Convert CSV to JSON Object
+    const rows = await neatCsv(csvString);
+
+    for(let row of rows) {
+        row.industry = industry;
+        allRows.push(row);
+    }
+}
+
+let typicals = [];
+for(let typical of allRows) {
+    typicals.push(await pipeline(typical));
 }
 
 let processed = {
-    models
+    typicals
 };
 
 // Write JSON Object to file
-await fs.writeFile(join(__dirname, "./processed/models.json"), JSON.stringify(processed, null, 2));
+await fs.writeFile(join(__dirname, "./processed/typicals.json"), JSON.stringify(processed, null, 2));
 
-await waitForMeilisearch();
+//await waitForMeilisearch();
 
-await indexData(models);
+await indexData(typicals);
 
 //await takeDump();
 

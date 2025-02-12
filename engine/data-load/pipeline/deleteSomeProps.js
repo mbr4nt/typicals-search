@@ -1,6 +1,12 @@
 export async function deleteSomeProps(model) {
-    //removing some columns we don't want
-    delete model.images;
-    delete model.comments;
-    return model;
+    return {
+        industry: model.industry,
+        application: model.application,
+        number: model.number,
+        code: model.code,
+        referenceImage: model.referenceImage,
+        mainProductLine: model.mainProductLine,
+        secondaryProductLine: model.secondaryProductLine,
+        seating: model.seating
+    }
 }

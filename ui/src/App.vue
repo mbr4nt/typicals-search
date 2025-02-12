@@ -1,11 +1,11 @@
 <template>
   <header class="header">
     <img src="./assets/logo.png" />
-    <h1 class="header-title">Chair search</h1>
-    <p class="header-subtitle">Very good for finding chairs</p>
+    <h1 class="header-title">Typicals search</h1>
+    <p class="header-subtitle">Very good for finding typicals?</p>
   </header>
   <div class="container">
-    <ais-instant-search :search-client="searchClient" index-name="models">
+    <ais-instant-search :search-client="searchClient" index-name="typicals">
       <div class="search-panel__filters">
         <!-- <ais-sort-by
           :items="[
@@ -19,24 +19,24 @@
             },
           ]"
         /> -->
-        <h2>Category</h2>
-        <ais-refinement-list attribute="category" show-more="true" show-more-limit="500" />
-        <h2>Series</h2>
-        <ais-refinement-list attribute="series" show-more="true" show-more-limit="500" />
+        <h2>Industry</h2>
+        <ais-refinement-list attribute="industry" />
+        <h2>Application</h2>
+        <ais-refinement-list attribute="application" show-more="true" show-more-limit="500" />
       </div>
       <div class="search-panel__results">
         <app-debounced-search-box :delay="10" class="ais-SearchBox-input" />
         <ais-hits>
           <template v-slot:item="{ item }">
-            <div @click="itemClicked(item.cmInfo, item.partNumber)">
+            <div @click="itemClicked(item)">
               <div class="hit-name">
-                <ais-highlight :hit="item" attribute="partNumber" />
+                <ais-highlight :hit="item" attribute="code" />
               </div>
-              <img :src="item.image" align="left" :alt="item.image" />
+              <img :src="item.referenceImage" align="left" :alt="item.referenceImage" />
               <div class="hit-description">
-                <ais-snippet :hit="item" attribute="name" />
+                <ais-snippet :hit="item" attribute="mainProductLine" />
               </div>
-              <div class="hit-info">series: {{ item.series }}</div>
+              <div class="hit-info">sec. product line: {{ item.secondaryProductLine }}</div>
             </div>
           </template>
         </ais-hits>
@@ -59,13 +59,8 @@ export default {
     AppDebouncedSearchBox,
   },
   methods: {
-    itemClicked(cmInfo, partNumber) {
-      let pn = cmInfo?.partNumber ?? partNumber;
-      let pkg = cmInfo?.package ? cmInfo.package + '/' : "";
-      let className = cmInfo?.className ? cmInfo.className + '/' : "";
-      let result = (pkg || className) ? pkg + className + pn : pn;
-      console.log("Item clicked: " + result);
-      window.chrome.webview.postMessage(result);
+    itemClicked(typical) {
+      console.log("Item clicked: " + typical);
     },
   },
   data() {
