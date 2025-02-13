@@ -5,1810 +5,1991 @@
       "application": "Collaboration",
       "number": "03",
       "code": "ATWPCZ03",
-      "referenceImage": "ATWPCZ03.png",
+      "referenceImage": "undefinedtypicals/ATWPCZ03.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Bridges II",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPCZ03"
     },
     {
       "industry": "workplace",
       "application": "Collaboration",
       "number": "01",
       "code": "ATWPCZ01",
-      "referenceImage": "ATWPCZ01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPCZ01R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "n/a",
-      "seating": "Prefer"
+      "seating": "Prefer",
+      "uid": "ATWPCZ01"
     },
     {
       "industry": "workplace",
       "application": "Collaboration",
       "number": "02",
       "code": "ATWPCZ02",
-      "referenceImage": "ATWPCZ02R01.png",
+      "referenceImage": "undefinedtypicals/ATWPCZ02R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "River +",
-      "seating": "Sas"
+      "seating": "Sas",
+      "uid": "ATWPCZ02"
     },
     {
       "industry": "workplace",
       "application": "Learning Spaces",
       "number": "02",
       "code": "ATWPLS02",
-      "referenceImage": "ATWPLS02R01.png",
+      "referenceImage": "undefinedtypicals/ATWPLS02R01.webp",
       "mainProductLine": "2gether",
       "secondaryProductLine": "n/a",
-      "seating": "Spritz"
+      "seating": "Spritz",
+      "uid": "ATWPLS02"
     },
     {
       "industry": "workplace",
       "application": "Learning Spaces",
       "number": "04",
       "code": "ATWPLS04",
-      "referenceImage": "ATWPLS04.png",
+      "referenceImage": "undefinedtypicals/ATWPLS04.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Collaborative Spaces",
-      "seating": "Rebound"
+      "seating": "Rebound",
+      "uid": "ATWPLS04"
     },
     {
       "industry": "workplace",
       "application": "Learning Spaces",
       "number": "01",
       "code": "ATWPLS01",
-      "referenceImage": "ATWPLS01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPLS01R01.webp",
       "mainProductLine": "Terina",
       "secondaryProductLine": "n/a",
-      "seating": "Roma"
+      "seating": "Roma",
+      "uid": "ATWPLS01"
     },
     {
       "industry": "workplace",
       "application": "Learning Spaces",
       "number": "03",
       "code": "ATWPLS03",
-      "referenceImage": "ATWPLS03R01.png",
+      "referenceImage": "undefinedtypicals/ATWPLS03R01.webp",
       "mainProductLine": "Terina",
       "secondaryProductLine": "n/a",
-      "seating": "Prefer"
+      "seating": "Prefer",
+      "uid": "ATWPLS03"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "14",
       "code": "ATWPMA14",
-      "referenceImage": "ATWPMA14R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA14R01.webp",
       "mainProductLine": "Boardroom",
       "secondaryProductLine": "n/a",
-      "seating": "Drift"
+      "seating": "Drift",
+      "uid": "ATWPMA14"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "11",
       "code": "ATWPMA11",
-      "referenceImage": "ATWPMA11R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA11R01.webp",
       "mainProductLine": "Bungee",
       "secondaryProductLine": "n/a",
-      "seating": "Roma"
+      "seating": "Roma",
+      "uid": "ATWPMA11"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "12",
       "code": "ATWPMA12",
-      "referenceImage": "ATWPMA12R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA12R01.webp",
       "mainProductLine": "Bungee",
       "secondaryProductLine": "n/a",
-      "seating": "Roma"
+      "seating": "Roma",
+      "uid": "ATWPMA12"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "02",
       "code": "ATWPMA02",
-      "referenceImage": "ATWPMA02R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA02R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "n/a",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPMA02"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "03",
       "code": "ATWPMA03",
-      "referenceImage": "ATWPMA03R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA03R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "n/a",
-      "seating": "Drift"
+      "seating": "Drift",
+      "uid": "ATWPMA03"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "05",
       "code": "ATWPMA05",
-      "referenceImage": "ATWPMA05R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA05R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "n/a",
-      "seating": "Novello"
+      "seating": "Novello",
+      "uid": "ATWPMA05"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "04",
       "code": "ATWPMA04",
-      "referenceImage": "ATWPMA04R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA04R01.webp",
       "mainProductLine": "ConnecTables",
       "secondaryProductLine": "Evolve",
-      "seating": "Marche"
+      "seating": "Marche",
+      "uid": "ATWPMA04"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "16",
       "code": "ATWPMA16",
-      "referenceImage": "ATWPMA16.png",
+      "referenceImage": "undefinedtypicals/ATWPMA16.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Kadin",
-      "seating": "Prefer"
+      "seating": "Prefer",
+      "uid": "ATWPMA16"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "08",
       "code": "ATWPMA08",
-      "referenceImage": "ATWPMA08R01.jpg",
+      "referenceImage": "undefinedtypicals/ATWPMA08R01.webp",
       "mainProductLine": "Junction",
       "secondaryProductLine": "Zira",
-      "seating": "Novello"
+      "seating": "Novello",
+      "uid": "ATWPMA08"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "06",
       "code": "ATWPMA06",
-      "referenceImage": "ATWPMA06R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA06R01.webp",
       "mainProductLine": "Kadin",
       "secondaryProductLine": "Wind Linear",
-      "seating": "Prefer"
+      "seating": "Prefer",
+      "uid": "ATWPMA06"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "07",
       "code": "ATWPMA07",
-      "referenceImage": "ATWPMA07R01.jpg",
+      "referenceImage": "undefinedtypicals/ATWPMA07R01.webp",
       "mainProductLine": "Kadin",
       "secondaryProductLine": "Foundations",
-      "seating": "Luray"
+      "seating": "Luray",
+      "uid": "ATWPMA07"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "09",
       "code": "ATWPMA09",
-      "referenceImage": "ATWPMA09R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA09R01.webp",
       "mainProductLine": "Kadin",
       "secondaryProductLine": "Zira",
-      "seating": "Marche"
+      "seating": "Marche",
+      "uid": "ATWPMA09"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "10",
       "code": "ATWPMA10",
-      "referenceImage": "ATWPMA10R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA10R01.webp",
       "mainProductLine": "Kadin",
       "secondaryProductLine": "n/a",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPMA10"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "01",
       "code": "ATWPMA01",
-      "referenceImage": "ATWPMA01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPMA01R01.webp",
       "mainProductLine": "Swap",
       "secondaryProductLine": "Zira",
-      "seating": "Prefer"
+      "seating": "Prefer",
+      "uid": "ATWPMA01"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "13",
       "code": "ATWPMA13",
-      "referenceImage": "ATWPMA13.jpg",
+      "referenceImage": "undefinedtypicals/ATWPMA13.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "9300 Series",
-      "seating": "Loover"
+      "seating": "Loover",
+      "uid": "ATWPMA13"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "15",
       "code": "ATWPMA15",
-      "referenceImage": "",
+      "referenceImage": "undefinedtypicals/.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Boardroom",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPMA15"
     },
     {
       "industry": "workplace",
       "application": "Outdoors",
       "number": "01",
       "code": "ATWPOD01",
-      "referenceImage": "ATWPOD01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOD01R01.webp",
       "mainProductLine": "Bakhita",
       "secondaryProductLine": "n/a",
-      "seating": "Bakhita"
+      "seating": "Bakhita",
+      "uid": "ATWPOD01"
     },
     {
       "industry": "workplace",
       "application": "Outdoors",
       "number": "02",
       "code": "ATWPOD02",
-      "referenceImage": "ATWPOD02R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOD02R01.webp",
       "mainProductLine": "Bakhita",
       "secondaryProductLine": "n/a",
-      "seating": "Spykar"
+      "seating": "Spykar",
+      "uid": "ATWPOD02"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "10",
       "code": "ATWPOP10",
-      "referenceImage": "ATWPOP10.png",
+      "referenceImage": "undefinedtypicals/ATWPOP10.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": "Sora"
+      "seating": "Sora",
+      "uid": "ATWPOP10"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "11",
       "code": "ATWPOP11",
-      "referenceImage": "ATWPOP11.png",
+      "referenceImage": "undefinedtypicals/ATWPOP11.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP11"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "12",
       "code": "ATWPOP12",
-      "referenceImage": "ATWPOP12.png",
+      "referenceImage": "undefinedtypicals/ATWPOP12.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP12"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "13",
       "code": "ATWPOP13",
-      "referenceImage": "ATWPOP13.png",
+      "referenceImage": "undefinedtypicals/ATWPOP13.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP13"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "14",
       "code": "ATWPOP14",
-      "referenceImage": "ATWPOP14.png",
+      "referenceImage": "undefinedtypicals/ATWPOP14.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Bridges II",
-      "seating": "n/a"
+      "seating": "n/a",
+      "uid": "ATWPOP14"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "15",
       "code": "ATWPOP15",
-      "referenceImage": "ATWPOP15.png",
+      "referenceImage": "undefinedtypicals/ATWPOP15.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Bridges II",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP15"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "16",
       "code": "ATWPOP16",
-      "referenceImage": "ATWPOP16.png",
+      "referenceImage": "undefinedtypicals/ATWPOP16.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP16"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "17",
       "code": "ATWPOP17",
-      "referenceImage": "ATWPOP17.png",
+      "referenceImage": "undefinedtypicals/ATWPOP17.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP17"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "18",
       "code": "ATWPOP18",
-      "referenceImage": "ATWPOP18.png",
+      "referenceImage": "undefinedtypicals/ATWPOP18.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP18"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "19",
       "code": "ATWPOP19",
-      "referenceImage": "ATWPOP19.png",
+      "referenceImage": "undefinedtypicals/ATWPOP19.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP19"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "20",
       "code": "ATWPOP20",
-      "referenceImage": "ATWPOP20.png",
+      "referenceImage": "undefinedtypicals/ATWPOP20.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP20"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "21",
       "code": "ATWPOP21",
-      "referenceImage": "ATWPOP21.png",
+      "referenceImage": "undefinedtypicals/ATWPOP21.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP21"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "29",
       "code": "ATWPOP29",
-      "referenceImage": "ATWPOP29.png",
+      "referenceImage": "undefinedtypicals/ATWPOP29.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP29"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "02",
       "code": "ATWPOP02",
-      "referenceImage": "ATWPOP02R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP02R01.webp",
       "mainProductLine": "Bridges II",
       "secondaryProductLine": "n/a",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP02"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "07",
       "code": "ATWPOP07",
-      "referenceImage": "ATWPOP07R01.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP07R01.webp",
       "mainProductLine": "Bridges II",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP07"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "08",
       "code": "ATWPOP08",
-      "referenceImage": "ATWPOP08R01.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP08R01.webp",
       "mainProductLine": "Bridges II",
       "secondaryProductLine": "Sirena",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP08"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "28",
       "code": "ATWPOP28",
-      "referenceImage": "ATWPOP28R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP28R01.webp",
       "mainProductLine": "Bridges II",
       "secondaryProductLine": "Swap",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP28"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "09",
       "code": "ATWPOP09",
-      "referenceImage": "ATWPOP09R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP09R01.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "Corby",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP09"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "23",
       "code": "ATWPOP23",
-      "referenceImage": "ATWPOP23.png",
+      "referenceImage": "undefinedtypicals/ATWPOP23.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP23"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "24",
       "code": "ATWPOP24",
-      "referenceImage": "ATWPOP24.png",
+      "referenceImage": "undefinedtypicals/ATWPOP24.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP24"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "26",
       "code": "ATWPOP26",
-      "referenceImage": "ATWPOP26.png",
+      "referenceImage": "undefinedtypicals/ATWPOP26.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "Princeton",
-      "seating": "Spritz"
+      "seating": "Spritz",
+      "uid": "ATWPOP26"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "27",
       "code": "ATWPOP27",
-      "referenceImage": "ATWPOP27R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP27R01.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "Zira",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP27"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "30",
       "code": "ATWPOP30",
-      "referenceImage": "ATWPOP30.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP30.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP30"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "31",
       "code": "ATWPOP31",
-      "referenceImage": "ATWPOP31.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP31.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP31"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "32",
       "code": "ATWPOP32",
-      "referenceImage": "ATWPOP32.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP32.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP32"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "33",
       "code": "ATWPOP33",
-      "referenceImage": "ATWPOP33.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP33.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP33"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "34",
       "code": "ATWPOP34",
-      "referenceImage": "ATWPOP34.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP34.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP34"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "35",
       "code": "ATWPOP35",
-      "referenceImage": "ATWPOP35.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP35.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP35"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "36",
       "code": "ATWPOP36",
-      "referenceImage": "ATWPOP36.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP36.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP36"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "37",
       "code": "ATWPOP37",
-      "referenceImage": "ATWPOP37.jpg",
+      "referenceImage": "undefinedtypicals/ATWPOP37.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP37"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "22",
       "code": "ATWPOP22",
-      "referenceImage": "ATWPOP22.png",
+      "referenceImage": "undefinedtypicals/ATWPOP22.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": "Aspen"
+      "seating": "Aspen",
+      "uid": "ATWPOP22"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "25",
       "code": "ATWPOP25",
-      "referenceImage": "ATWPOP25R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP25R01.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Freefit",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP25"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "43",
       "code": "ATWPOP43",
-      "referenceImage": "ATWPOP43.jpeg",
+      "referenceImage": "undefinedtypicals/ATWPOP43.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Laminate Storage",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP43"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "44",
       "code": "ATWPOP44",
-      "referenceImage": "ATWPOP44.png",
+      "referenceImage": "undefinedtypicals/ATWPOP44.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP44"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "45",
       "code": "ATWPOP45",
-      "referenceImage": "ATWPOP45.png",
+      "referenceImage": "undefinedtypicals/ATWPOP45.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPOP45"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "01",
       "code": "ATWPOP01",
-      "referenceImage": "ATWPOP01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP01R01.webp",
       "mainProductLine": "Freefit",
       "secondaryProductLine": "Princeton",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP01"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "05",
       "code": "ATWPOP05",
-      "referenceImage": "ATWPOP05R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP05R01.webp",
       "mainProductLine": "Freefit",
       "secondaryProductLine": "River +",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPOP05"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "06",
       "code": "ATWPOP06",
-      "referenceImage": "ATWPOP06R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP06R01.webp",
       "mainProductLine": "Freefit",
       "secondaryProductLine": "Collaborative Spaces",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP06"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "03",
       "code": "ATWPOP03",
-      "referenceImage": "ATWPOP03R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP03R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "n/a",
-      "seating": "Solar"
+      "seating": "Solar",
+      "uid": "ATWPOP03"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "04",
       "code": "ATWPOP04",
-      "referenceImage": "ATWPOP04R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP04R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "n/a",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP04"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "38",
       "code": "ATWPOP38",
-      "referenceImage": "ATWPOP38R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP38R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "Rambler",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP38"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "39",
       "code": "ATWPOP39",
-      "referenceImage": "ATWPOP39R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP39R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "Rambler",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP39"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "40",
       "code": "ATWPOP40",
-      "referenceImage": "ATWPOP40R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP40R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "Rambler",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP40"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "41",
       "code": "ATWPOP41",
-      "referenceImage": "ATWPOP41R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP41R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "Rambler",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPOP41"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "42",
       "code": "ATWPOP42",
-      "referenceImage": "ATWPOP42R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP42R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "Collaborative Spaces",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPOP42"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "10",
       "code": "ATWPPO10",
-      "referenceImage": "ATWPPO10.jpg",
+      "referenceImage": "undefinedtypicals/ATWPPO10.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO10"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "11",
       "code": "ATWPPO11",
-      "referenceImage": "ATWPPO11.jpg",
+      "referenceImage": "undefinedtypicals/ATWPPO11.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO11"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "12",
       "code": "ATWPPO12",
-      "referenceImage": "ATWPPO12.png",
+      "referenceImage": "undefinedtypicals/ATWPPO12.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO12"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "13",
       "code": "ATWPPO13",
-      "referenceImage": "ATWPPO13.jpg",
+      "referenceImage": "undefinedtypicals/ATWPPO13.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO13"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "14",
       "code": "ATWPPO14",
-      "referenceImage": "ATWPPO14.jpg",
+      "referenceImage": "undefinedtypicals/ATWPPO14.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO14"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "15",
       "code": "ATWPPO15",
-      "referenceImage": "ATWPPO15.jpg",
+      "referenceImage": "undefinedtypicals/ATWPPO15.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO15"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "05",
       "code": "ATWPPO05",
-      "referenceImage": "ATWPPO05.png",
+      "referenceImage": "undefinedtypicals/ATWPPO05.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Obusforme Comfort"
+      "seating": "Obusforme Comfort",
+      "uid": "ATWPPO05"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "06",
       "code": "ATWPPO06",
-      "referenceImage": "ATWPPO06.png",
+      "referenceImage": "undefinedtypicals/ATWPPO06.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Obusforme Comfort"
+      "seating": "Obusforme Comfort",
+      "uid": "ATWPPO06"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "07",
       "code": "ATWPPO07",
-      "referenceImage": "ATWPPO07.png",
+      "referenceImage": "undefinedtypicals/ATWPPO07.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Obusforme Comfort"
+      "seating": "Obusforme Comfort",
+      "uid": "ATWPPO07"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "08",
       "code": "ATWPPO08",
-      "referenceImage": "ATWPPO08.png",
+      "referenceImage": "undefinedtypicals/ATWPPO08.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "Freefit",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO08"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "09",
       "code": "ATWPPO09",
-      "referenceImage": "ATWPPO09.jpg",
+      "referenceImage": "undefinedtypicals/ATWPPO09.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO09"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "16",
       "code": "ATWPPO16",
-      "referenceImage": "ATWPPO16.png",
+      "referenceImage": "undefinedtypicals/ATWPPO16.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO16"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "17",
       "code": "ATWPPO17",
-      "referenceImage": "ATWPPO17.png",
+      "referenceImage": "undefinedtypicals/ATWPPO17.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO17"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "18",
       "code": "ATWPPO18",
-      "referenceImage": "ATWPPO18.png",
+      "referenceImage": "undefinedtypicals/ATWPPO18.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO18"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "19",
       "code": "ATWPPO19",
-      "referenceImage": "ATWPPO19.png",
+      "referenceImage": "undefinedtypicals/ATWPPO19.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO19"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "20",
       "code": "ATWPPO20",
-      "referenceImage": "ATWPPO20.png",
+      "referenceImage": "undefinedtypicals/ATWPPO20.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Zira",
-      "seating": "Luray"
+      "seating": "Luray",
+      "uid": "ATWPPO20"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "21",
       "code": "ATWPPO21",
-      "referenceImage": "ATWPPO21.png",
+      "referenceImage": "undefinedtypicals/ATWPPO21.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Zira",
-      "seating": "Citi"
+      "seating": "Citi",
+      "uid": "ATWPPO21"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "01",
       "code": "ATWPPO01",
-      "referenceImage": "ATWPPO01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPPO01R01.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPPO01"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "02",
       "code": "ATWPPO02",
-      "referenceImage": "ATWPPO02R01.png",
+      "referenceImage": "undefinedtypicals/ATWPPO02R01.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Swap",
-      "seating": "Drift"
+      "seating": "Drift",
+      "uid": "ATWPPO02"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "03",
       "code": "ATWPPO03",
-      "referenceImage": "ATWPPO03R01.png",
+      "referenceImage": "undefinedtypicals/ATWPPO03R01.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO03"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "04",
       "code": "ATWPPO04",
-      "referenceImage": "ATWPPO04R01.png",
+      "referenceImage": "undefinedtypicals/ATWPPO04R01.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPPO04"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "22",
       "code": "ATWPPO22",
-      "referenceImage": "ATWPPO22.png",
+      "referenceImage": "undefinedtypicals/ATWPPO22.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO22"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "23",
       "code": "ATWPPO23",
-      "referenceImage": "ATWPP023.png",
+      "referenceImage": "undefinedtypicals/ATWPP023.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO23"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "24",
       "code": "ATWPPO24",
-      "referenceImage": "ATWPP024.png",
+      "referenceImage": "undefinedtypicals/ATWPP024.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO24"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "25",
       "code": "ATWPPO25",
-      "referenceImage": "ATWPP025.png",
+      "referenceImage": "undefinedtypicals/ATWPP025.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO25"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "26",
       "code": "ATWPPO26",
-      "referenceImage": "ATWPP026.png",
+      "referenceImage": "undefinedtypicals/ATWPP026.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO26"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "27",
       "code": "ATWPPO27",
-      "referenceImage": "ATWPP027.png",
+      "referenceImage": "undefinedtypicals/ATWPP027.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO27"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "28",
       "code": "ATWPPO28",
-      "referenceImage": "ATWPPO28.png",
+      "referenceImage": "undefinedtypicals/ATWPPO28.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO28"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "29",
       "code": "ATWPPO29",
-      "referenceImage": "ATWPPO29.png",
+      "referenceImage": "undefinedtypicals/ATWPPO29.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO29"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "30",
       "code": "ATWPPO30",
-      "referenceImage": "ATWPPO30.png",
+      "referenceImage": "undefinedtypicals/ATWPPO30.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO30"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "31",
       "code": "ATWPPO31",
-      "referenceImage": "ATWPPO31.png",
+      "referenceImage": "undefinedtypicals/ATWPPO31.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO31"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "32",
       "code": "ATWPPO32",
-      "referenceImage": "ATWPPO32.png",
+      "referenceImage": "undefinedtypicals/ATWPPO32.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO32"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "33",
       "code": "ATWPPO33",
-      "referenceImage": "ATWPPO33.png",
+      "referenceImage": "undefinedtypicals/ATWPPO33.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO33"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "34",
       "code": "ATWPPO34",
-      "referenceImage": "ATWPPO34.png",
+      "referenceImage": "undefinedtypicals/ATWPPO34.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO34"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "35",
       "code": "ATWPPO35",
-      "referenceImage": "ATWPPO35.png",
+      "referenceImage": "undefinedtypicals/ATWPPO35.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO35"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "36",
       "code": "ATWPPO36",
-      "referenceImage": "ATWPPO36.png",
+      "referenceImage": "undefinedtypicals/ATWPPO36.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO36"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "37",
       "code": "ATWPPO37",
-      "referenceImage": "ATWPPO37.png",
+      "referenceImage": "undefinedtypicals/ATWPPO37.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO37"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "38",
       "code": "ATWPPO38",
-      "referenceImage": "ATWPPO38.png",
+      "referenceImage": "undefinedtypicals/ATWPPO38.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO38"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "39",
       "code": "ATWPPO39",
-      "referenceImage": "ATWPPO39.png",
+      "referenceImage": "undefinedtypicals/ATWPPO39.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Swap",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO39"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "40",
       "code": "ATWPPO40",
-      "referenceImage": "ATWPPO40.png",
+      "referenceImage": "undefinedtypicals/ATWPPO40.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Swap",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO40"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "41",
       "code": "ATWPPO41",
-      "referenceImage": "ATWPPO41.png",
+      "referenceImage": "undefinedtypicals/ATWPPO41.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO41"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "42",
       "code": "ATWPPO42",
-      "referenceImage": "ATWPPO42.png",
+      "referenceImage": "undefinedtypicals/ATWPPO42.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO42"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "43",
       "code": "ATWPPO43",
-      "referenceImage": "ATWPPO43.png",
+      "referenceImage": "undefinedtypicals/ATWPPO43.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Solar"
+      "seating": "Solar",
+      "uid": "ATWPPO43"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "44",
       "code": "ATWPPO44",
-      "referenceImage": "ATWPPO44.png",
+      "referenceImage": "undefinedtypicals/ATWPPO44.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO44"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "45",
       "code": "ATWPPO45",
-      "referenceImage": "ATWPPO45.png",
+      "referenceImage": "undefinedtypicals/ATWPPO45.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Swap",
-      "seating": "Prefer"
+      "seating": "Prefer",
+      "uid": "ATWPPO45"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "47",
       "code": "ATWPPO47",
-      "referenceImage": "ATWPPO47.png",
+      "referenceImage": "undefinedtypicals/ATWPPO47.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO47"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "48",
       "code": "ATWPPO48",
-      "referenceImage": "ATWPPO48.png",
+      "referenceImage": "undefinedtypicals/ATWPPO48.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO48"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "49",
       "code": "ATWPPO49",
-      "referenceImage": "ATWPPO49.png",
+      "referenceImage": "undefinedtypicals/ATWPPO49.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPPO49"
     },
     {
       "industry": "workplace",
       "application": "Personal Spaces",
       "number": "01",
       "code": "ATWPPS01",
-      "referenceImage": "ATWPPS01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPPS01R01.webp",
       "mainProductLine": "Priva",
       "secondaryProductLine": "Zira",
-      "seating": "River+"
+      "seating": "River+",
+      "uid": "ATWPPS01"
     },
     {
       "industry": "workplace",
       "application": "Personal Spaces",
       "number": "02",
       "code": "ATWPPS02",
-      "referenceImage": "ATWPPS02R01.png",
+      "referenceImage": "undefinedtypicals/ATWPPS02R01.webp",
       "mainProductLine": "Priva",
       "secondaryProductLine": "Zira",
-      "seating": "ML Park"
+      "seating": "ML Park",
+      "uid": "ATWPPS02"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "04",
       "code": "ATWPRP04",
-      "referenceImage": "ATWPRP04.jpg",
+      "referenceImage": "undefinedtypicals/ATWPRP04.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPRP04"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "08",
       "code": "ATWPRP08",
-      "referenceImage": "ATWPRP08.png",
+      "referenceImage": "undefinedtypicals/ATWPRP08.webp",
       "mainProductLine": "B1",
       "secondaryProductLine": "",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPRP08"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "05",
       "code": "ATWPRP05",
-      "referenceImage": "ATWPRP05.jpg",
+      "referenceImage": "undefinedtypicals/ATWPRP05.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "",
-      "seating": "Obusforme Comfort"
+      "seating": "Obusforme Comfort",
+      "uid": "ATWPRP05"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "09",
       "code": "ATWPRP09",
-      "referenceImage": "ATWPRP09.png",
+      "referenceImage": "undefinedtypicals/ATWPRP09.webp",
       "mainProductLine": "B3",
       "secondaryProductLine": "",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPRP09"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "07",
       "code": "ATWPRP07",
-      "referenceImage": "ATWPRP07.jpg",
+      "referenceImage": "undefinedtypicals/ATWPRP07.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Factor"
+      "seating": "Factor",
+      "uid": "ATWPRP07"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "11",
       "code": "ATWPRP11",
-      "referenceImage": "ATWPRP11.png",
+      "referenceImage": "undefinedtypicals/ATWPRP11.webp",
       "mainProductLine": "Compile",
       "secondaryProductLine": "",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPRP11"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "06",
       "code": "ATWPRP06",
-      "referenceImage": "ATWPRP06.jpg",
+      "referenceImage": "undefinedtypicals/ATWPRP06.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": "Vion"
+      "seating": "Vion",
+      "uid": "ATWPRP06"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "10",
       "code": "ATWPRP10",
-      "referenceImage": "ATWPRP10.png",
+      "referenceImage": "undefinedtypicals/ATWPRP10.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPRP10"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "01",
       "code": "ATWPRP01",
-      "referenceImage": "ATWPRP01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPRP01R01.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Wind",
-      "seating": "G20"
+      "seating": "G20",
+      "uid": "ATWPRP01"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "02",
       "code": "ATWPRP02",
-      "referenceImage": "ATWPRP02R02.jpg",
+      "referenceImage": "undefinedtypicals/ATWPRP02R02.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Corby",
-      "seating": "Vitrola"
+      "seating": "Vitrola",
+      "uid": "ATWPRP02"
     },
     {
       "industry": "workplace",
       "application": "Reception",
       "number": "03",
       "code": "ATWPRP03",
-      "referenceImage": "ATWPRP03R01.png",
+      "referenceImage": "undefinedtypicals/ATWPRP03R01.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Wind",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPRP03"
     },
     {
       "industry": "workplace",
       "application": "Shared Spaces",
       "number": "01",
       "code": "ATWPSP01",
-      "referenceImage": "ATWPSP01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSP01R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "Princeton",
-      "seating": "Novello"
+      "seating": "Novello",
+      "uid": "ATWPSP01"
     },
     {
       "industry": "workplace",
       "application": "Shared Spaces",
       "number": "02",
       "code": "ATWPSP02",
-      "referenceImage": "ATWPSP02R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSP02R01.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Collaborative Spaces",
-      "seating": "Novello"
+      "seating": "Novello",
+      "uid": "ATWPSP02"
     },
     {
       "industry": "workplace",
       "application": "Shared Spaces",
       "number": "04",
       "code": "ATWPSP04",
-      "referenceImage": "ATWPSP04R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSP04R01.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Collaborative Spaces",
-      "seating": "Sas"
+      "seating": "Sas",
+      "uid": "ATWPSP04"
     },
     {
       "industry": "workplace",
       "application": "Shared Spaces",
       "number": "05",
       "code": "ATWPSP05",
-      "referenceImage": "ATWPSP05R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSP05R01.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Swap",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATWPSP05"
     },
     {
       "industry": "workplace",
       "application": "Shared Spaces",
       "number": "08",
       "code": "ATWPSP08",
-      "referenceImage": "ATWPSP08.png",
+      "referenceImage": "undefinedtypicals/ATWPSP08.webp",
       "mainProductLine": "Evolve",
       "secondaryProductLine": "Collaborative Spaces",
-      "seating": "Venture"
+      "seating": "Venture",
+      "uid": "ATWPSP08"
     },
     {
       "industry": "workplace",
       "application": "Shared Spaces",
       "number": "06",
       "code": "ATWPSP06",
-      "referenceImage": "ATWPSP06R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSP06R01.webp",
       "mainProductLine": "Rambler",
       "secondaryProductLine": "n/a",
-      "seating": "n/a"
+      "seating": "n/a",
+      "uid": "ATWPSP06"
     },
     {
       "industry": "workplace",
       "application": "Shared Spaces",
       "number": "07",
       "code": "ATWPSP07",
-      "referenceImage": "ATWPSP07R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSP07R01.webp",
       "mainProductLine": "Rambler",
       "secondaryProductLine": "n/a",
-      "seating": "n/a"
+      "seating": "n/a",
+      "uid": "ATWPSP07"
     },
     {
       "industry": "workplace",
       "application": "Shared Spaces",
       "number": "03",
       "code": "ATWPSP03",
-      "referenceImage": "ATWPSP03R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSP03R01.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "Princeton",
-      "seating": "Sirena"
+      "seating": "Sirena",
+      "uid": "ATWPSP03"
     },
     {
       "industry": "workplace",
       "application": "Social Spaces",
       "number": "07",
       "code": "ATWPSS07",
-      "referenceImage": "ATWPSS07R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSS07R01.webp",
       "mainProductLine": "Ballara",
       "secondaryProductLine": "Swap",
-      "seating": "Drift"
+      "seating": "Drift",
+      "uid": "ATWPSS07"
     },
     {
       "industry": "workplace",
       "application": "Social Spaces",
       "number": "05",
       "code": "ATWPSS05",
-      "referenceImage": "ATWPSS05R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSS05R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "Corby",
-      "seating": "Willow"
+      "seating": "Willow",
+      "uid": "ATWPSS05"
     },
     {
       "industry": "workplace",
       "application": "Social Spaces",
       "number": "02",
       "code": "ATWPSS02",
-      "referenceImage": "ATWPSS02R01.jpg",
+      "referenceImage": "undefinedtypicals/ATWPSS02R01.webp",
       "mainProductLine": "Corby",
       "secondaryProductLine": "n/a",
-      "seating": "Drift"
+      "seating": "Drift",
+      "uid": "ATWPSS02"
     },
     {
       "industry": "workplace",
       "application": "Social Spaces",
       "number": "04",
       "code": "ATWPSS04",
-      "referenceImage": "ATWPSS04R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSS04R01.webp",
       "mainProductLine": "Corby",
       "secondaryProductLine": "Collaborative Spaces",
-      "seating": "Drift"
+      "seating": "Drift",
+      "uid": "ATWPSS04"
     },
     {
       "industry": "workplace",
       "application": "Social Spaces",
       "number": "01",
       "code": "ATWPSS01",
-      "referenceImage": "ATWPSS01R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSS01R01.webp",
       "mainProductLine": "River +",
       "secondaryProductLine": "Swap",
-      "seating": "Drift"
+      "seating": "Drift",
+      "uid": "ATWPSS01"
     },
     {
       "industry": "workplace",
       "application": "Social Spaces",
       "number": "06",
       "code": "ATWPSS06",
-      "referenceImage": "ATWPSS06R01.png",
+      "referenceImage": "undefinedtypicals/ATWPSS06R01.webp",
       "mainProductLine": "River +",
       "secondaryProductLine": "n/a",
-      "seating": "Duet"
+      "seating": "Duet",
+      "uid": "ATWPSS06"
     },
     {
       "industry": "workplace",
       "application": "Social Spaces",
       "number": "03",
       "code": "ATWPSS03",
-      "referenceImage": "ATWPSS03R01.jpg",
+      "referenceImage": "undefinedtypicals/ATWPSS03R01.webp",
       "mainProductLine": "Swap",
       "secondaryProductLine": "Corby",
-      "seating": "n/a"
+      "seating": "n/a",
+      "uid": "ATWPSS03"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "46",
       "code": "ATWPPO46",
-      "referenceImage": "ATWPPO50.png",
+      "referenceImage": "undefinedtypicals/ATWPPO50.webp",
       "mainProductLine": "Zira",
       "secondaryProductLine": "n/a",
-      "seating": "Global Accord"
+      "seating": "Global Accord",
+      "uid": "ATWPPO46"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "50",
       "code": "ATWPPO50",
-      "referenceImage": "ATWPOP46R01.png",
+      "referenceImage": "undefinedtypicals/ATWPOP46R01.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO50"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "51",
       "code": "ATWPPO51",
-      "referenceImage": "ATWPPO51.png",
+      "referenceImage": "undefinedtypicals/ATWPPO51.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO51"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "52",
       "code": "ATWPPO52",
-      "referenceImage": "ATWPPO52.png",
+      "referenceImage": "undefinedtypicals/ATWPPO52.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO52"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "53",
       "code": "ATWPPO53",
-      "referenceImage": "ATWPPO53.png",
+      "referenceImage": "undefinedtypicals/ATWPPO53.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO53"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "54",
       "code": "ATWPPO54",
-      "referenceImage": "ATWPPO54.png",
+      "referenceImage": "undefinedtypicals/ATWPPO54.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO54"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "55",
       "code": "ATWPPO55",
-      "referenceImage": "ATWPPO55.png",
+      "referenceImage": "undefinedtypicals/ATWPPO55.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO55"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "56",
       "code": "ATWPPO56",
-      "referenceImage": "ATWPPO56.png",
+      "referenceImage": "undefinedtypicals/ATWPPO56.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO56"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "57",
       "code": "ATWPPO57",
-      "referenceImage": "ATWPPO57.png",
+      "referenceImage": "undefinedtypicals/ATWPPO57.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO57"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "58",
       "code": "ATWPPO58",
-      "referenceImage": "ATWPPO58.png",
+      "referenceImage": "undefinedtypicals/ATWPPO58.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO58"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "59",
       "code": "ATWPPO59",
-      "referenceImage": "ATWPPO59.png",
+      "referenceImage": "undefinedtypicals/ATWPPO59.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO59"
     },
     {
       "industry": "workplace",
       "application": "Private Offices",
       "number": "60",
       "code": "ATWPPO60",
-      "referenceImage": "ATWPPO60.png",
+      "referenceImage": "undefinedtypicals/ATWPPO60.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPPO60"
     },
     {
       "industry": "workplace",
       "application": "Open Plan",
       "number": "46",
       "code": "ATWPOP46",
-      "referenceImage": "ATWPOP46.png",
+      "referenceImage": "undefinedtypicals/ATWPOP46.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPOP46"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "17",
       "code": "ATWPMA17",
-      "referenceImage": "ATWPMA17.png",
+      "referenceImage": "undefinedtypicals/ATWPMA17.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPMA17"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "18",
       "code": "ATWPMA18",
-      "referenceImage": "ATWPMA18.png",
+      "referenceImage": "undefinedtypicals/ATWPMA18.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPMA18"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "19",
       "code": "ATWPMA19",
-      "referenceImage": "ATWPMA19.png",
+      "referenceImage": "undefinedtypicals/ATWPMA19.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPMA19"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "20",
       "code": "ATWPMA20",
-      "referenceImage": "ATWPMA20.png",
+      "referenceImage": "undefinedtypicals/ATWPMA20.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPMA20"
     },
     {
       "industry": "workplace",
       "application": "Meeting Areas",
       "number": "21",
       "code": "ATWPMA21",
-      "referenceImage": "ATWPMA21.png",
+      "referenceImage": "undefinedtypicals/ATWPMA21.webp",
       "mainProductLine": "Office Spaces",
       "secondaryProductLine": "",
-      "seating": ""
+      "seating": "",
+      "uid": "ATWPMA21"
     },
     {
       "industry": "healthcare",
       "application": "Waiting Area",
       "number": "01",
       "code": "ATHCWA01",
-      "referenceImage": "ATHCWA01R01.png",
+      "referenceImage": "undefinedtypicals/ATHCWA01R01.webp",
       "mainProductLine": "Primacare",
       "secondaryProductLine": "River ",
-      "seating": "n/a"
+      "seating": "n/a",
+      "uid": "ATHCWA01"
     },
     {
       "industry": "healthcare",
       "application": "Waiting Area",
       "number": "02",
       "code": "ATHCWA02",
-      "referenceImage": "ATHCWA02R01.png",
+      "referenceImage": "undefinedtypicals/ATHCWA02R01.webp",
       "mainProductLine": "River +",
       "secondaryProductLine": "Zira",
-      "seating": "Willow"
+      "seating": "Willow",
+      "uid": "ATHCWA02"
     },
     {
       "industry": "healthcare",
       "application": "Waiting Area",
       "number": "03",
       "code": "ATHCWA03",
-      "referenceImage": "ATHCWA03R01.png",
+      "referenceImage": "undefinedtypicals/ATHCWA03R01.webp",
       "mainProductLine": "Calidon",
       "secondaryProductLine": "n/a",
-      "seating": "n/a"
+      "seating": "n/a",
+      "uid": "ATHCWA03"
     },
     {
       "industry": "healthcare",
       "application": "Waiting Area",
       "number": "04",
       "code": "ATHCWA04",
-      "referenceImage": "ATHCWA04R01.png",
+      "referenceImage": "undefinedtypicals/ATHCWA04R01.webp",
       "mainProductLine": "River ",
       "secondaryProductLine": "River +",
-      "seating": "Stream"
+      "seating": "Stream",
+      "uid": "ATHCWA04"
     },
     {
       "industry": "healthcare",
       "application": "Cafe + Dining",
       "number": "01",
       "code": "ATHCCD01",
-      "referenceImage": "ATHCCD01.jpg",
+      "referenceImage": "undefinedtypicals/ATHCCD01.webp",
       "mainProductLine": "",
       "secondaryProductLine": "n/a",
-      "seating": "n/a"
+      "seating": "n/a",
+      "uid": "ATHCCD01"
     },
     {
       "industry": "healthcare",
       "application": "Patient + Resident Rooms",
       "number": "01",
       "code": "ATHCPR01",
-      "referenceImage": "ATHCPR01.jpg",
+      "referenceImage": "undefinedtypicals/ATHCPR01.webp",
       "mainProductLine": "",
       "secondaryProductLine": "n/a",
-      "seating": "n/a"
+      "seating": "n/a",
+      "uid": "ATHCPR01"
     },
     {
       "industry": "education",
       "application": "Cafe + Dining",
       "number": "01",
       "code": "ATEDCD01",
-      "referenceImage": "ATEDCD01R01.png",
+      "referenceImage": "undefinedtypicals/ATEDCD01R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "n/a",
-      "seating": "Prefer"
+      "seating": "Prefer",
+      "uid": "ATEDCD01"
     },
     {
       "industry": "education",
       "application": "Libraries",
       "number": "01",
       "code": "ATEDLI01",
-      "referenceImage": "ATEDLI01R01.png",
+      "referenceImage": "undefinedtypicals/ATEDLI01R01.webp",
       "mainProductLine": "Bridges II",
       "secondaryProductLine": "n/a",
-      "seating": "Novello"
+      "seating": "Novello",
+      "uid": "ATEDLI01"
     },
     {
       "industry": "education",
       "application": "Learning Spaces",
       "number": "01",
       "code": "ATEDLS01",
-      "referenceImage": "ATEDLS01R01.png",
+      "referenceImage": "undefinedtypicals/ATEDLS01R01.webp",
       "mainProductLine": "Zook",
       "secondaryProductLine": "Prime Series",
-      "seating": "Sonic"
+      "seating": "Sonic",
+      "uid": "ATEDLS01"
     },
     {
       "industry": "education",
       "application": "Learning Spaces",
       "number": "02",
       "code": "ATEDLS02",
-      "referenceImage": "ATEDLS02R01.png",
+      "referenceImage": "undefinedtypicals/ATEDLS02R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "n/a",
-      "seating": "Willow"
+      "seating": "Willow",
+      "uid": "ATEDLS02"
     },
     {
       "industry": "education",
       "application": "Makerspaces",
       "number": "01",
       "code": "ATEDMS01",
-      "referenceImage": "ATEDMS01R01.png",
+      "referenceImage": "undefinedtypicals/ATEDMS01R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "n/a",
-      "seating": "Spritz"
+      "seating": "Spritz",
+      "uid": "ATEDMS01"
     },
     {
       "industry": "education",
       "application": "Libraries",
       "number": "02",
       "code": "ATEDLI02",
-      "referenceImage": "ATEDLI02R01.jpg",
+      "referenceImage": "undefinedtypicals/ATEDLI02R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "Zook",
-      "seating": "Roma"
+      "seating": "Roma",
+      "uid": "ATEDLI02"
     },
     {
       "industry": "education",
       "application": "Cafe + Dining",
       "number": "02",
       "code": "ATEDCD02",
-      "referenceImage": "ATEDCD02R01.jpg",
+      "referenceImage": "undefinedtypicals/ATEDCD02R01.webp",
       "mainProductLine": "Swap",
       "secondaryProductLine": "Venture",
-      "seating": "Sas"
+      "seating": "Sas",
+      "uid": "ATEDCD02"
     },
     {
       "industry": "education",
       "application": "Cafe + Dining",
       "number": "03",
       "code": "ATEDCD03",
-      "referenceImage": "ATEDCD03R01.png",
+      "referenceImage": "undefinedtypicals/ATEDCD03R01.webp",
       "mainProductLine": "Swap",
       "secondaryProductLine": "Bakhita",
-      "seating": "Venture"
+      "seating": "Venture",
+      "uid": "ATEDCD03"
     },
     {
       "industry": "education",
       "application": "Faculty + Admin",
       "number": "01",
       "code": "ATEDFA01",
-      "referenceImage": "ATEDFA01R01.jpg",
+      "referenceImage": "undefinedtypicals/ATEDFA01R01.webp",
       "mainProductLine": "Softpod",
       "secondaryProductLine": "Bridges II",
-      "seating": "Noetic"
+      "seating": "Noetic",
+      "uid": "ATEDFA01"
     },
     {
       "industry": "education",
       "application": "Mental Health + Respite",
       "number": "01",
       "code": "ATEDMH01",
-      "referenceImage": "ATEDMH01R01.png",
+      "referenceImage": "undefinedtypicals/ATEDMH01R01.webp",
       "mainProductLine": "Bridges II",
       "secondaryProductLine": "Prime Series",
-      "seating": "Wind"
+      "seating": "Wind",
+      "uid": "ATEDMH01"
     },
     {
       "industry": "education",
       "application": "Learning Spaces",
       "number": "03",
       "code": "ATEDLS03",
-      "referenceImage": "ATEDLS03R01.png",
+      "referenceImage": "undefinedtypicals/ATEDLS03R01.webp",
       "mainProductLine": "Collaborative Spaces",
       "secondaryProductLine": "n/a",
-      "seating": "Duet"
+      "seating": "Duet",
+      "uid": "ATEDLS03"
     }
   ]
 }
