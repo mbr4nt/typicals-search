@@ -1,5 +1,7 @@
 export async function addImage(model) {
     let imageServerUrl = process.env.IMAGE_SERVER_URL;
-    model.image = `${imageServerUrl}models/${model.partNumber}.jpg`;
+    let image = model.referenceImage.split('.')[0]; // Remove the file extension
+
+    model.referenceImage = `${imageServerUrl}typicals/${image}.webp`;
     return model;
 }
