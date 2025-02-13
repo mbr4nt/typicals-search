@@ -1,4 +1,4 @@
 export async function addUid(model) {
-    model.uid = model.partNumber;
+    model.uid = model.code;
     return model;
 }
