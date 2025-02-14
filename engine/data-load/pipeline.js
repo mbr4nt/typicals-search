@@ -11,7 +11,7 @@ export async function pipeline(model) {
         cleanApplicationString,
         addUid,
         addImage,
-        // addCmInfo
+        addCmInfo,
     ];
 
     let processed = model;

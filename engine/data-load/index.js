@@ -31,6 +31,9 @@ for(let typical of allRows) {
     typicals.push(await pipeline(typical));
 }
 
+// Filter out typicals that do not have the .cmInfo property
+typicals = typicals.filter(typical => typical?.cmInfo);
+
 let processed = {
     typicals
 };

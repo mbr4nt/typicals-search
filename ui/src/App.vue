@@ -60,7 +60,9 @@ export default {
   },
   methods: {
     itemClicked(typical) {
-      console.log("Item clicked: " + typical);
+      console.log(typical);
+      let cmfavUrl = typical?.cmInfo?.cmfav ?? ''
+      console.log("Item clicked: " + cmfavUrl);
     },
   },
   data() {

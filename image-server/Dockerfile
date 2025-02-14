@@ -4,9 +4,10 @@ FROM node:18-alpine
 # Set the working directory
 WORKDIR /app
 
-# Copy the server script and image folder
+# Copy the server script, image folder and cmfav folder
 COPY server.js .
 COPY images ./images
+COPY cmfav ./cmfav
 
 # Expose the port the app runs on
 EXPOSE 3000

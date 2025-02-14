@@ -17,7 +17,7 @@ services:
     ports:
       - "7700:7700"
     environment:
-      - IMAGE_SERVER_URL=http://localhost:3002/
+      - FS_SERVER_URL=http://localhost:3002/
       - MEILI_MASTER_KEY=a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk
     volumes:
       - ./engine/data:/data
