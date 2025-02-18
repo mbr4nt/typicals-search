@@ -2,7 +2,7 @@ import http from 'http';
 
 export async function waitForMeilisearch() {
     
-    let url = 'http://localhost:7701/health';
+    let url = 'http://localhost:7700/health';
     let timeout = 30000;
     let interval = 1000;
 
