@@ -4,9 +4,9 @@ services:
       context: ./ui
     image: mbr4nt/global-typicals-search-ui:latest
     ports:
-      - "4040:80"
+      - "4041:80"
     environment:
-      - VUE_APP_MEILISEARCH_HOST=http://localhost:7700/
+      - VUE_APP_MEILISEARCH_HOST=http://localhost:7701/
       - VUE_APP_MEILISEARCH_API_KEY=a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk
     container_name: typicals-ui-container
 
@@ -15,9 +15,9 @@ services:
       context: ./engine
     image: mbr4nt/global-typicals-search-engine:latest
     ports:
-      - "7700:7700"
+      - "7701:7700"
     environment:
-      - FS_SERVER_URL=http://localhost:3002/
+      - FS_SERVER_URL=http://localhost:3003/
       - MEILI_MASTER_KEY=a0Mfp5S-WKAQ5_dtAARW3EopM6eij7u-OrrWo4JqTIk
     volumes:
       - ./engine/data:/data
@@ -28,5 +28,5 @@ services:
       context: ./image-server
     image: mbr4nt/global-typicals-search-image-server:latest
     ports:
-      - "3002:3000"
+      - "3003:3000"
     container_name: typicals-image-server-container

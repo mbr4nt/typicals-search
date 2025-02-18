@@ -5,7 +5,7 @@
 
 # Wait for MeiliSearch to become available
 echo "Waiting for MeiliSearch to start..."
-until curl -s -H "Authorization: Bearer $MEILI_MASTER_KEY" http://localhost:7700/health | grep "status"; do
+until curl -s -H "Authorization: Bearer $MEILI_MASTER_KEY" http://localhost:7701/health | grep "status"; do
   sleep 2
 done
 

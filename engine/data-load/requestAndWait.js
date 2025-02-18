@@ -11,7 +11,7 @@ import { makeRequest } from "./makeRequest.js";
  * @returns {Promise<Object>} - The final response of the completed task.
  */
 export async function requestAndWait(url, verb, body = null, bearerToken, pollInterval = 2000) {
-    let serverUrl = "http://localhost:7700";
+    let serverUrl = "http://localhost:7701";
 
     try {
         // Step 1: Make the initial API call
