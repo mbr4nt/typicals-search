@@ -63,6 +63,9 @@ export default {
       console.log(typical);
       let cmfavUrl = typical?.cmInfo?.cmfav ?? ''
       console.log("Item clicked: " + cmfavUrl);
+      const cetCall = 'cet://typicals.custom.global/';
+      console.log(cetCall + cmfavUrl);
+      window.chrome.webview.postMessage(cetCall + cmfavUrl);
     },
   },
   data() {
